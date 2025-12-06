@@ -1,2 +1,2 @@
-# pfseeker-assets
-website asset pool
+Assent dump for a website
+
