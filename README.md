@@ -1,2 +1,2 @@
-Assent dump for a website
+Asset dump for a website
 
