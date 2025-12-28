@@ -1,5 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg fill="none" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
- <path d="m12 9.4016c-1.1096-2.5125-3.6909-2.7359-4.8929-1.6401-0.97859 0.87939-1.4486 2.9872-0.55479 4.9274 1.5411 3.3361 5.4477 5.0879 5.4477 5.0879s3.9067-1.7518 5.4477-5.0879c0.8939-1.9402 0.4239-4.048-0.5547-4.9274-1.2021-1.0957-3.7834-0.8724-4.893 1.6401z" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" style="stroke:#fff"/>
- <rect x="2.75" y="2.75" width="18.5" height="18.5" rx="6" stroke="#000" stroke-width="1.5" style="stroke:#fff"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>liked</title><g fill="none" stroke="currentColor" stroke-width="1.5" class="nc-icon-wrapper"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9.402c-1.11-2.513-3.69-2.736-4.893-1.64-.978.879-1.448 2.987-.555 4.927C8.094 16.025 12 17.777 12 17.777s3.907-1.752 5.448-5.088c.894-1.94.424-4.048-.555-4.928C15.691 6.666 13.11 6.89 12 9.401"/><rect width="18.5" height="18.5" x="2.75" y="2.75" rx="6"/></g></svg>
